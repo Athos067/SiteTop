@@ -22,7 +22,7 @@ header{
 }
 
 main{
-    background-color:black;
+    background-color: mediumvioletred;
     grid-area: main;
 }
 
